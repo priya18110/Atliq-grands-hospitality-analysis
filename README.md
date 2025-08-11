@@ -1,4 +1,5 @@
 🏨 AtliQ Grands Hospitality Analysis
+
 📌 Problem Statement
 AtliQ Grands owns multiple five-star hotels across India and has been in the hospitality industry for the past 20 years. Due to strategic moves from competitors and ineffective decision-making in management, AtliQ Grands is losing its market share and revenue in the luxury/business hotels category.
 
@@ -11,7 +12,7 @@ Identify factors influencing revenue and guest ratings.
 
 Recommend strategies to improve occupancy, guest satisfaction, and overall profitability.
 
-Data Engineering Workflow:
+##Data Engineering Workflow:##
 
 Database Creation:
 
