@@ -73,3 +73,31 @@ Correlation Study: Generated heatmaps to identify relationships between numerica
 Seasonality Detection: Highlighted high-demand and low-demand periods for pricing strategies.
 
 📊 Key Insights
+
+1. Occupancy Rate Comparison:
+
+Delhi records the highest weekend occupancy rate (~78%), while Bangalore experiences the lowest weekday occupancy percentage.
+
+The Presidential room category has the highest occupancy rate (59.28%), followed closely by the Standard category at 57.89%.
+
+Weekends witness the highest occupancy rate at ~73%, compared to ~51% on weekdays, indicating stronger guest demand during leisure periods.
+
+2. Revenue Trend:
+
+Mumbai’s Elite rooms generate the highest revenue (₹232M), while Delhi’s Presidential rooms bring in the least (₹60M) among all city–room class combinations.
+
+Weekday revenues contribute 62.6% of total earnings, while weekends account for 37.4%, highlighting stronger revenue generation during weekdays.
+
+Atliq Exotica leads with ₹320.26M in revenue, followed by Atliq Palace at ₹304.08M, whereas Atliq Seasons significantly lags behind with only ₹66.09M, highlighting a substantial performance gap among properties.
+
+Over 40% of revenue comes from the undefined 'Others' category, with MakeYourTrip as the top contributor among named platforms.
+
+3. ADR (Average Daily Rate) Trends:
+
+Atliq Seasons leads in ADR across months, peaking in June 2022, while most other properties, led by Atliq Exotica, remain stable within ₹14.3k–₹15.5k.
+
+Weekdays have a total ADR nearly 2.4 times higher than weekends, accounting for about 70.6% of the overall ADR.
+
+4. Cancellation Patterns:
+
+
