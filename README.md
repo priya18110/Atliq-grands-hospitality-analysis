@@ -1,4 +1,4 @@
-# 🏨 AtliQ Grands Hospitality Analysis
+#  AtliQ Grands Hospitality Analysis
 
 ## 📌 Problem Overview
 
@@ -86,13 +86,32 @@ The Presidential room category has the highest occupancy rate **(59.28%)**, foll
 
 **Atliq Blu** leads in customer ratings, indicating strong guest satisfaction, whereas **Atliq Seasons’** low rating of 2.30 highlights potential service or quality issues impacting its performance.
 
-**“Others”** lead bookings but also cancellations. MakeMyTrip has high bookings with fewer cancellations, and offline direct bookings have the lowest cancellations.
+**“Others”** lead bookings but also cancellations. MakeyourTrip has high bookings with fewer cancellations, and offline direct bookings have the lowest cancellations.
 
 Over **40%** of revenue comes from the undefined 'Others' category, with MakeYourTrip as the top contributor among named platforms.
 
 Atliq Seasons leads in ADR across months, peaking in **June 2022**, while most other properties, led by Atliq Exotica, remain stable within ₹14.3k–₹15.5k.
 
 Revenue stayed steady from May to July 2022, peaking in **May (₹582M)** and slightly dipping in June before recovering in July.
+
+# Recommendations:
+
+1. Improve service and facilities at Atliq Seasons to boost satisfaction and occupancy.
+
+2. Use dynamic pricing to maximize revenue, learning from high-performing properties and room classes.
+
+3. Strengthen promotional campaigns in cities like Hyderabad and Bangalore, which maintain better booking-to-cancellation ratios, to convert more bookings and reduce cancellations.
+
+4. Increase weekend rates with special offers to raise revenue without losing occupancy.
+
+5. Prioritize reliable booking sources like MakeMyTrip and reduce cancellations from “Others”.
+
+6. Regularly collect and act on guest feedback, especially from lower-rated properties, to address pain points quickly and improve overall satisfaction.
+
+7. Promote top-rated properties like Atliq Blu to build customer loyalty.
+
+8. Use data-driven marketing to upsell higher-margin room classes in cities with lower occupancy but strong revenue potential.
+
 
 
 
