@@ -1,4 +1,4 @@
-🏨 AtliQ Grands Hospitality Analysis
+#🏨 AtliQ Grands Hospitality Analysis#
 
 📌 Problem Overview
 
@@ -74,30 +74,26 @@ Seasonality Detection: Highlighted high-demand and low-demand periods for pricin
 
 📊 Key Insights
 
-1. Occupancy Rate Comparison:
+Atliq Blu has the highest occupancy at 63.14% but generates (₹260M)in revenue, while Atliq Exotica, with 57.85% occupancy, leads revenue at (₹320M). Atliq Seasons shows the lowest occupancy (44.51%) and revenue (₹66M), indicating underperformance.
 
-Delhi records the highest weekend occupancy rate (~78%), while Bangalore experiences the lowest weekday occupancy percentage.
+Mumbai’s Elite rooms lead revenue at ₹232M despite moderate occupancy (~57.6%), while Delhi’s Presidential rooms have the highest occupancy (63.25%) but lower revenue (₹60.5M). This suggests revenue is driven by pricing and demand differences across cities and room classes.
 
 The Presidential room category has the highest occupancy rate (59.28%), followed closely by the Standard category at 57.89%.
 
-Weekends witness the highest occupancy rate at ~73%, compared to ~51% on weekdays, indicating stronger guest demand during leisure periods.
+Weekdays earn more revenue (₹1.07B) despite lower occupancy (51.8%), while weekends have higher occupancy (74%) but generate less revenue (₹639M).
 
-2. Revenue Trend:
+Mumbai leads in bookings and cancellations, affecting efficiency; Hyderabad and Bangalore have better booking-to-cancellation ratios, while Delhi records fewer bookings.
 
-Mumbai’s Elite rooms generate the highest revenue (₹232M), while Delhi’s Presidential rooms bring in the least (₹60M) among all city–room class combinations.
+Atliq Blu leads in customer ratings, indicating strong guest satisfaction, whereas Atliq Seasons’ low rating of 2.30 highlights potential service or quality issues impacting its performance.
 
-Weekday revenues contribute 62.6% of total earnings, while weekends account for 37.4%, highlighting stronger revenue generation during weekdays.
-
-Atliq Exotica leads with ₹320.26M in revenue, followed by Atliq Palace at ₹304.08M, whereas Atliq Seasons significantly lags behind with only ₹66.09M, highlighting a substantial performance gap among properties.
+“Others” lead bookings but also cancellations. MakeMyTrip has high bookings with fewer cancellations, and offline direct bookings have the lowest cancellations.
 
 Over 40% of revenue comes from the undefined 'Others' category, with MakeYourTrip as the top contributor among named platforms.
 
-3. ADR (Average Daily Rate) Trends:
-
 Atliq Seasons leads in ADR across months, peaking in June 2022, while most other properties, led by Atliq Exotica, remain stable within ₹14.3k–₹15.5k.
 
-Weekdays have a total ADR nearly 2.4 times higher than weekends, accounting for about 70.6% of the overall ADR.
+Revenue stayed steady from May to July 2022, peaking in May (₹582M) and slightly dipping in June before recovering in July.
 
-4. Cancellation Patterns:
+
 
 
