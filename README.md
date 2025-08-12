@@ -76,23 +76,23 @@ Seasonality Detection: Highlighted high-demand and low-demand periods for pricin
 
 **Atliq Blu** has the highest occupancy at 63.14% but generates (₹260M)in revenue, while Atliq Exotica, with 57.85% occupancy, leads revenue at (₹320M). **Atliq Seasons** shows the lowest occupancy (44.51%) and revenue (₹66M), indicating underperformance.
 
-Mumbai’s Elite rooms lead revenue at ₹232M despite moderate occupancy (~57.6%), while Delhi’s Presidential rooms have the highest occupancy (63.25%) but lower revenue (₹60.5M). This suggests revenue is driven by pricing and demand differences across cities and room classes.
+**Mumbai’s Elite** rooms lead revenue at ₹232M despite moderate occupancy (~57.6%), while **Delhi’s Presidential** rooms have the highest occupancy (63.25%) but lower revenue (₹60.5M). This suggests revenue is driven by pricing and demand differences across cities and room classes.
 
-The Presidential room category has the highest occupancy rate (59.28%), followed closely by the Standard category at 57.89%.
+The Presidential room category has the highest occupancy rate **(59.28%)**, followed closely by the Standard category at 57.89%.
 
-Weekdays earn more revenue (₹1.07B) despite lower occupancy (51.8%), while weekends have higher occupancy (74%) but generate less revenue (₹639M).
+**Weekdays** earn more revenue (₹1.07B) despite lower occupancy (51.8%), while **weekends** have higher occupancy (74%) but generate less revenue (₹639M).
 
-Mumbai leads in bookings and cancellations, affecting efficiency; Hyderabad and Bangalore have better booking-to-cancellation ratios, while Delhi records fewer bookings.
+**Mumbai** leads in bookings and cancellations, affecting efficiency; Hyderabad and Bangalore have better booking-to-cancellation ratios, while Delhi records fewer bookings.
 
-Atliq Blu leads in customer ratings, indicating strong guest satisfaction, whereas Atliq Seasons’ low rating of 2.30 highlights potential service or quality issues impacting its performance.
+**Atliq Blu** leads in customer ratings, indicating strong guest satisfaction, whereas **Atliq Seasons’** low rating of 2.30 highlights potential service or quality issues impacting its performance.
 
-“Others” lead bookings but also cancellations. MakeMyTrip has high bookings with fewer cancellations, and offline direct bookings have the lowest cancellations.
+**“Others”** lead bookings but also cancellations. MakeMyTrip has high bookings with fewer cancellations, and offline direct bookings have the lowest cancellations.
 
-Over 40% of revenue comes from the undefined 'Others' category, with MakeYourTrip as the top contributor among named platforms.
+Over **40%** of revenue comes from the undefined 'Others' category, with MakeYourTrip as the top contributor among named platforms.
 
-Atliq Seasons leads in ADR across months, peaking in June 2022, while most other properties, led by Atliq Exotica, remain stable within ₹14.3k–₹15.5k.
+Atliq Seasons leads in ADR across months, peaking in **June 2022**, while most other properties, led by Atliq Exotica, remain stable within ₹14.3k–₹15.5k.
 
-Revenue stayed steady from May to July 2022, peaking in May (₹582M) and slightly dipping in June before recovering in July.
+Revenue stayed steady from May to July 2022, peaking in **May (₹582M)** and slightly dipping in June before recovering in July.
 
 
 
