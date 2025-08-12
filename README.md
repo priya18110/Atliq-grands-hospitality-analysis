@@ -94,7 +94,7 @@ Atliq Seasons leads in ADR across months, peaking in **June 2022**, while most o
 
 Revenue stayed steady from May to July 2022, peaking in **May (₹582M)** and slightly dipping in June before recovering in July.
 
-# Recommendations:
+## Recommendations:
 
 1. Improve service and facilities at Atliq Seasons to boost satisfaction and occupancy.
 
