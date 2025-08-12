@@ -22,7 +22,7 @@ Recommend strategies to improve occupancy, guest satisfaction, and overall profi
 
 ## 🛠️ Tools & Technologies
 
-Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
+Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly, PyMySQL, SQLAlchemy)
 
 MySQL (Data storage & querying)
 
@@ -74,7 +74,7 @@ Seasonality Detection: Highlighted high-demand and low-demand periods for pricin
 
 ## 📊 Key Insights
 
-Atliq Blu has the highest occupancy at 63.14% but generates (₹260M)in revenue, while Atliq Exotica, with 57.85% occupancy, leads revenue at (₹320M). Atliq Seasons shows the lowest occupancy (44.51%) and revenue (₹66M), indicating underperformance.
+**Atliq Blu** has the highest occupancy at 63.14% but generates (₹260M)in revenue, while Atliq Exotica, with 57.85% occupancy, leads revenue at (₹320M). **Atliq Seasons** shows the lowest occupancy (44.51%) and revenue (₹66M), indicating underperformance.
 
 Mumbai’s Elite rooms lead revenue at ₹232M despite moderate occupancy (~57.6%), while Delhi’s Presidential rooms have the highest occupancy (63.25%) but lower revenue (₹60.5M). This suggests revenue is driven by pricing and demand differences across cities and room classes.
 
