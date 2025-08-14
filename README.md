@@ -104,7 +104,7 @@ Revenue stayed steady from May to July 2022, peaking in **May (₹582M)** and sl
 
 4. Increase weekend rates with special offers to raise revenue without losing occupancy.
 
-5. Prioritize reliable booking sources like MakeMyTrip and reduce cancellations from “Others”.
+5. Prioritize reliable booking sources like MakeyourTrip and reduce cancellations from “Others”.
 
 6. Regularly collect and act on guest feedback, especially from lower-rated properties, to address pain points quickly and improve overall satisfaction.
 
